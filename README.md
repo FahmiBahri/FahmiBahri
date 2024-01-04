@@ -3,7 +3,7 @@
 <h2>🛡️ Cyber Security Projects:</h2>
 
 - <b> 🖥️ Microsoft Azure Live Attack SIEM Project</b>
-  - [Geotagging Live Attackers]([https://github.com/FahmiBahri/SIEMAzureProject](https://github.com/FahmiBahri/SIEMAzureProject))
+  - [Geotagging Live Threat Actors]([https://github.com/FahmiBahri/SIEMAzureProject](https://github.com/FahmiBahri/SIEMAzureProject))
   - Link: https://github.com/FahmiBahri/SIEMAzureProject
 
 
