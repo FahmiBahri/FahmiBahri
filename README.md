@@ -27,13 +27,3 @@
               - Social Engineering etc.
       
 - <b> 🌐 Bachelors Degree: International Business Management </b>
-
-
-  
-<h2> 🤳 Connect with me:</h2>
-
-
-
-[linkedin]: https://linkedin.com/in/FahmiBahri
-
-
